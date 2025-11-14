@@ -1,0 +1,5 @@
+export const LIST_ACTION = {
+    REQUEST:'REQUEST',
+    SUCCESS:'SUCCESS',
+    FAILURE:'FAILURE'
+}
