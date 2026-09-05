@@ -15,3 +15,6 @@ Now we want connect this particular store your react application
 2. Thunk mainly used to handle asynchronous calls i.e.. API calls.
 
 3. Thunk is a middleware for the store which provides the capability to handle the functions which can dispatch other actions.
+
+
+I'm learning jenkins to create CI
